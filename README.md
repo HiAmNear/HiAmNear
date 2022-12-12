@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi There I'm Mã Hải Nhật
-✨ My Goat Is Become A Data Scientist
+✨ My Goal Is Become A Data Scientist
 
 ## :writing_hand: Programing Language
 <img src="https://www.python.org/static/community_logos/python-logo.png" width="211" height="70"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png" width="211" height="70">
