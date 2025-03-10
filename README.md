@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi There
 ✨
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hi%20Im%20Near&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
